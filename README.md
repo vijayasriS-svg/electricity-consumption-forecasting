@@ -4,7 +4,7 @@
 
 🌐 [Project page](https://nicolas-len.github.io/electricity-time-series/)
 
-👤 Project contact: [Nicolas Len](https://www.linkedin.com/in/niclen/)
+👤 Project contact: [Vijaya sri S][(https://www.linkedin.com/in/niclen/](https://www.linkedin.com/feed/)
 
 Forecast electricity consumption for a single target day (96 points at 15-minute frequency) using historical electricity demand and temperature data.
 
